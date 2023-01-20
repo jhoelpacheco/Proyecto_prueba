@@ -1,28 +1,32 @@
 <?xml version="1.0"?>
-<company>
-    <staff id="1001">
-        <firstname>yong</firstname>
-        <lastname>mook kim</lastname>
-        <nickname>mkyong</nickname>
-        <salary currency="USD">100000</salary>
-    </staff>
-    <staff id="2001">
-        <firstname>low</firstname>
-        <lastname>yin fong</lastname>
-        <nickname>fong fong</nickname>
-        <salary currency="INR">200000</salary>
-    </staff>
-    <staff id="3001">
-        <firstname>low</firstname>
-        <lastname>yin fong</lastname>
-        <nickname>fong fong</nickname>
-        <salary currency="INR">300000</salary>
-    </staff>
-    <staff id="4001">
-        <firstname>low</firstname>
-        <lastname>yin fong</lastname>
-        <nickname>fong fong</nickname>
-        <salary currency="INR">400000</salary>
-    </staff>
-    
-</company>
+ <teachers options="canadd,export:silent" columns="id,name,firstname,lastname">
+      <teacher id="0E83D406BD0B7FBE" firstname="JUAN ANTONIO" lastname="AGUILERA LÓPEZ" name="JUAN ANTONIO AGUILERA LÓPEZ" short="JA.Aguilera" gender="F" color="#CC9933" email="" mobile="" partner_id=""/>
+      <teacher id="5106FC71FC6B075B" firstname="RAÜL" lastname="ALGARRA VERDÚ" name="RAÜL ALGARRA VERDÚ" short="R.Algarra" gender="F" color="#3333FF" email="" mobile="" partner_id=""/>
+      <teacher id="82CDB5CEFE342579" firstname="JORDI" lastname="BOLET" name="JORDI BOLET" short="J. Bolet" gender="F" color="#003300" email="" mobile="" partner_id=""/>
+      <teacher id="F119F56D352573BC" firstname="ESTANISLAO VICENTE" lastname="CASANOVA ESTRADA" name="ESTANISLAO VICENTE CASANOVA ESTRADA" short="E.Casanova" gender="F" color="#333399" email="" mobile="" partner_id=""/>
+      <teacher id="0D96E95DD71FCACA" firstname="JOSE LUIS" lastname="CASTILLO GUTIÉRREZ" name="JOSE LUIS CASTILLO GUTIÉRREZ" short="JJ.Castillo" gender="F" color="#FF9900" email="" mobile="" partner_id=""/>
+      <teacher id="2A18FD6549B06DD0" firstname="PABLO" lastname="CAVESTANY OLIVARES" name="PABLO CAVESTANY OLIVARES" short="P.Cavestany" gender="F" color="#999900" email="" mobile="" partner_id=""/>
+      <teacher id="F274CF5748749AD7" firstname="ALBERT" lastname="GASSET" name="ALBERT GASSET" short="A. Gasset" gender="F" color="#CCCCFF" email="" mobile="" partner_id=""/>
+      <teacher id="AA45C7FB5FF61647" firstname="MOISÉS" lastname="GÓMEZ GIRÓN" name="MOISÉS GÓMEZ GIRÓN" short="M. Góméz" gender="F" color="#333300" email="" mobile="" partner_id=""/>
+      <teacher id="D58372E6EEF2EDD1" firstname="ANA MARÍA" lastname="GÓMEZ MORALES" name="ANA MARÍA GÓMEZ MORALES" short="AM.Gómez" gender="F" color="#996633" email="" mobile="" partner_id=""/>
+      <teacher id="8CA0D083106FACB9" firstname="JUAN LUIS" lastname="HERNÁNDEZ MARTÍN" name="JUAN LUIS HERNÁNDEZ MARTÍN" short="JL.Hernández" gender="F" color="#999900" email="" mobile="" partner_id=""/>
+      <teacher id="0A446DC897ACBD30" firstname="JOAN" lastname="IZNARDO SAPENA" name="JOAN IZNARDO SAPENA" short="J.Iznardo" gender="F" color="#336666" email="" mobile="" partner_id=""/>
+      <teacher id="C5E9AD53B5A64C2C" firstname="ORIOL" lastname="JAUMÀ LARA" name="ORIOL JAUMÀ LARA" short="O.Jaumà" gender="F" color="#33FF33" email="" mobile="" partner_id=""/>
+      <teacher id="8E5967DF5EA788AF" firstname="EDUARD" lastname="LARA OCHOA" name="EDUARD LARA OCHOA" short="E.Lara" gender="F" color="#FF9900" email="" mobile="" partner_id=""/>
+      <teacher id="8198F95BC10025CB" firstname="ENRIQUE" lastname="LORENTE FUERTES" name="ENRIQUE LORENTE FUERTES" short="E.Lorente" gender="F" color="#CC0000" email="" mobile="" partner_id=""/>
+      <teacher id="BC483A4C89B076B2" firstname="AMÈLIA" lastname="LORES DURÀ" name="AMÈLIA LORES DURÀ" short="A.Lores" gender="F" color="#663366" email="" mobile="" partner_id=""/>
+      <teacher id="8550646B31596C52" firstname="SERGI" lastname="MARTÍNEZ MILLET" name="SERGI MARTÍNEZ MILLET" short="S.Martínez" gender="F" color="#993300" email="" mobile="" partner_id=""/>
+      <teacher id="6C2594A9A509246A" firstname="MARTA" lastname="MILLÁN LOMBRAÑA" name="MARTA MILLÁN LOMBRAÑA" short="M.Millán" gender="F" color="#33CC00" email="" mobile="" partner_id=""/>
+      <teacher id="A769BCE221C6177F" firstname="DANIEL" lastname="MORENO ARELLANO" name="DANIEL MORENO ARELLANO" short="D.Moreno" gender="F" color="#993300" email="" mobile="" partner_id=""/>
+      <teacher id="2821CFCBE53BA660" firstname="DIEGO" lastname="NISTAL CASTRO" name="DIEGO NISTAL CASTRO" short="D.Nistal" gender="F" color="#3333FF" email="" mobile="" partner_id=""/>
+      <teacher id="653AB862F54D2122" firstname="JOAN ANTON" lastname="PÉREZ BRAÑA" name="JOAN ANTON PÉREZ BRAÑA" short="J.A. Pérez" gender="F" color="#009900" email="" mobile="" partner_id=""/>
+      <teacher id="E1FB0CF6C34D785F" firstname="IVÁN" lastname="QUERO SEVILLA" name="IVÁN QUERO SEVILLA" short="I.Quero" gender="F" color="#666666" email="" mobile="" partner_id=""/>
+      <teacher id="2181377DB02B02CC" firstname="JORDI" lastname="QUESADA BALAGUER" name="JORDI QUESADA BALAGUER" short="J.Quesada" gender="F" color="#663333" email="" mobile="" partner_id=""/>
+      <teacher id="F7F9463AAE1B73E7" firstname="FRANCISCO JAVIER" lastname="QUESADA PUERTAS" name="FRANCISCO JAVIER QUESADA PUERTAS" short="FJ.Quesada" gender="F" color="#00FF46" email="" mobile="" partner_id=""/>
+      <teacher id="5ECF541D0C82F756" firstname="ALBA" lastname="ROMEO JANÉ" name="ALBA ROMEO JANÉ" short="A.Romeo" gender="F" color="#993399" email="" mobile="" partner_id=""/>
+      <teacher id="2B0972C1E0224148" firstname="MIGUEL" lastname="TARAZONA BELENGUER" name="MIGUEL TARAZONA BELENGUER" short="M.Tarazona" gender="F" color="#3366FF" email="" mobile="" partner_id=""/>
+      <teacher id="8ACEF23EBDB96A58" firstname="ANA" lastname="TRULLEN FUNCIA" name="ANA TRULLEN FUNCIA" short="A.Trullen" gender="F" color="#FF99FF" email="" mobile="" partner_id=""/>
+      <teacher id="5B0B7BCFCEF930B4" firstname="JORGE" lastname="VICENTE PERALES" name="JORGE VICENTE PERALES" short="J.Vicente" gender="F" color="#FFFF80" email="" mobile="" partner_id=""/>
+      <teacher id="1317E8E04C6A0B62" firstname="" lastname="1/2 507" name="1/2 507" short="1/2 507" gender="F" color="#FF0000" email="" mobile="" partner_id=""/>
+      <teacher id="4F8B1DEFC667D6EF" firstname="" lastname="1/2 627" name="1/2 627" short="1/2 627" gender="F" color="#00FF00" email="" mobile="" partner_id=""/>
+   </teachers>
