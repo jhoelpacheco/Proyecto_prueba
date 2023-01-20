@@ -3,6 +3,8 @@ package prueba;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.Statement;
  
 
 public class MainPrueba3 {
@@ -30,8 +32,14 @@ public class MainPrueba3 {
 		
          String sql = "SELECT * FROM horarios WHERE profe='EDUARD';";
 		
-		 PreparedStatement sentencia = conexion.prepareStatement(sql);
+		 Statement sentencia = conexion.createStatement();
 		 System.out.print(sentencia);
+		 
+	     ResultSet rs = sentencia.executeQuery(sql);
+	     while ( rs.next() ) {
+             String lastName = rs.getString("martes");
+             System.out.println(lastName);
+         }
 			
 		sentencia.close();
 		conexion.close();
