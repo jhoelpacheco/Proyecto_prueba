@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subjects options="canadd,export:silent" columns="id,name,short,partner_id">
+      <subject id="32081F4A1713F9A0" name="Coordinació Riscos laborals" short="Coor Riscos" partner_id=""/>
+      <subject id="F4834C7B540E7874" name="SMXM01 Maquinari" short="SMXM01" partner_id=""/>
+      <subject id="84BAE5F914B6B497" name="SMXM02 Sistemes" short="SMXM02" partner_id=""/>
+      <subject id="4282E147A338CF0B" name="SMXM03 Ofimàtica" short="SMXM03" partner_id=""/>
+      <subject id="A398312C0BC36531" name="SMXM04 Sistemes en xarxa" short="SMXM04" partner_id=""/>
+      <subject id="BF4B54A949A3EEA4" name="SMXM05 Xarxes" short="SMXM05" partner_id=""/>
+      <subject id="F943D06AF0A4C19A" name="SMXM06 Seguretat" short="SMXM06" partner_id=""/>
+      <subject id="67548F9CFE27CDA6" name="SMXM07 Serveis" short="SMXM07" partner_id=""/>
+      <subject id="D287236B1621D5A2" name="SMXM08 Aplicacions Web" short="SMXM08" partner_id=""/>
+      <subject id="D2CD2EDDCCD41C63" name="SMXM06/M08" short="SMXM06/M08" partner_id=""/>
+      <subject id="6C5D2EE7E3CCDAF4" name="SMXM11 Anglès" short="SMXM11" partner_id=""/>
+      <subject id="6DAA40B79FEF86FA" name="SMXPRG Programació" short="SMXPRG" partner_id=""/>
+      <subject id="ED2ECEBF455E8E05" name="SMX Síntesi" short="SMX Sínt." partner_id=""/>
+      <subject id="AE228D546250D06B" name="CFFOL" short="CFFOL" partner_id=""/>
+      <subject id="4BA312DCF728051E" name="CFEIE" short="CFEIE" partner_id=""/>
+      <subject id="930EB5E146E45A0A" name="CFTUT" short="CFTUT" partner_id=""/>
+      <subject id="899E60D119737CF1" name="CF Projecte ASIX/DAM/DAW" short="CFPROJ" partner_id=""/>
+      <subject id="B4EAF76A0B685567" name="ASIXM01 Sistemes" short="ASIXM01" partner_id=""/>
+      <subject id="C57F74F6E431E547" name="ASIXM02 Bases de dades" short="ASIXM02" partner_id=""/>
+      <subject id="AD9BF4FAA3F71F35" name="ASIXM03" short="ASIXM03" partner_id=""/>
+      <subject id="CE20B5802FC2C189" name="ASIXM04" short="ASIXM04" partner_id=""/>
+      <subject id="0D07D3B2AD9D992A" name="ASIXM05" short="ASIXM05" partner_id=""/>
+      <subject id="39C432EE5A36EA78" name="ASIXM06" short="ASIXM06" partner_id=""/>
+      <subject id="30F0A157B8BEE838" name="ASIXM07" short="ASIXM07" partner_id=""/>
+      <subject id="B95CBBB72F2FC87C" name="ASIXM08" short="ASIXM08" partner_id=""/>
+      <subject id="EE01C95868D3D85B" name="ASIXM09" short="ASIXM09" partner_id=""/>
+      <subject id="2573C23FE1313F02" name="ASIXM10" short="ASIXM10" partner_id=""/>
+      <subject id="F9BDDC3C87A09873" name="ASIXM11 Seguretat" short="ASIXM11" partner_id=""/>
+      <subject id="5183171A41F481E9" name="ASIXMCLOUD" short="ASIXMCLOUD" partner_id=""/>
+      <subject id="286BC4DDA728D9D3" name="DAMM01" short="DAMM01" partner_id=""/>
+      <subject id="540A7D95563B0E86" name="DAMM02" short="DAMM02" partner_id=""/>
+      <subject id="DCCACCFA053774F0" name="DAMM03" short="DAMM03" partner_id=""/>
+      <subject id="90152D9756E94C8E" name="DAMM04" short="DAMM04" partner_id=""/>
+      <subject id="66616C782AC9FFF8" name="DAMM05" short="DAMM05" partner_id=""/>
+      <subject id="7C68690D37ED1FF8" name="DAMM06" short="DAMM06" partner_id=""/>
+      <subject id="8C24CC5523F4D266" name="DAMM07" short="DAMM07" partner_id=""/>
+      <subject id="A821F74F935467E2" name="DAMM08" short="DAMM08" partner_id=""/>
+      <subject id="75048737A7EA1677" name="DAMM09" short="DAMM09" partner_id=""/>
+      <subject id="BA9E9473778692EB" name="DAMM10" short="DAMM10" partner_id=""/>
+      <subject id="8D1038A1BEB8BDDC" name="DAM BigData" short="DAMMBD" partner_id=""/>
+      <subject id="8C5679D2A203EC72" name="DAWM01" short="DAWM01" partner_id=""/>
+      <subject id="B49703A977A4319C" name="DAWM02" short="DAWM02" partner_id=""/>
+      <subject id="8F01C0B21E5A5EA0" name="DAWM03" short="DAWM03" partner_id=""/>
+      <subject id="20E970A810A0BF41" name="DAWM04" short="DAWM04" partner_id=""/>
+      <subject id="C35A6B04F455C792" name="DAWM05" short="DAWM05" partner_id=""/>
+      <subject id="00A7ADACAF5ABE4D" name="DAWM06" short="DAWM06" partner_id=""/>
+      <subject id="D5D5390D821FFB34" name="DAWM07" short="DAWM07" partner_id=""/>
+      <subject id="E65CC41552EE870B" name="DAWM08" short="DAWM08" partner_id=""/>
+      <subject id="A3424C2019708996" name="DAWM09" short="DAWM09" partner_id=""/>
+      <subject id="27AA15B2B01C54F4" name="DAWMHIBR" short="DAWMHIBR" partner_id=""/>
+      <subject id="4780AB4DC56A8358" name="CEM01+CEM02+CEM03 Models d'Intel·ligència Artificial + Sistemes d'aprenentatge Automàtic + Programació d'Intel·ligència Artificial" short="CE IA" partner_id=""/>
+      <subject id="145BF95873244F85" name="CEM04+CEM05 Sistemes de Big Data + Big Data Aplicat" short="CE BigData" partner_id=""/>
+      <subject id="2B7DF3B3DEC5D713" name="Reunió Departament (cicles)" short="RD CF" partner_id=""/>
+      <subject id="CA2442CDCCF14DD7" name="Reunió: Coordinació Cicles Matí" short="ReunióCFMatí" partner_id=""/>
+      <subject id="C6724C8A5213E8EB" name="Reunió Coordinació Cicles tarda" short="ReunióCFTarda" partner_id=""/>
+      <subject id="D795013BC9159CB5" name="Guàrdia CF" short="GCF" partner_id=""/>
+      <subject id="528494AF2F7C7AFA" name="Càrrec CF" short="CCF" partner_id=""/>
+      <subject id="385B92D649B03F1A" name="Cap de departament CF" short="CapCF" partner_id=""/>
+      <subject id="EFB37E72D7D59C1D" name="Coordinació TAC" short="Coor TAC" partner_id=""/>
+      <subject id="3DF6B1CE71E7ED78" name="Coordinació Mobilitat Internacional" short="Coor Mobi" partner_id=""/>
+      <subject id="4050807A8D197DC4" name="Robòtica (First Lego League)" short="ROB(FLL)" partner_id=""/>
+   </subjects>
